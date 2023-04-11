@@ -1,0 +1,11 @@
+{
+ "helper": {
+  "url": "world.colorhunt.palette.bot:8080",
+  "ossp:data": [
+    "<<><<><<<><<<><><<<>>>><>>><<><<<<<>>>>",
+    "ossp:@palette.bot:8000"
+],
+}
+ "Connector:@palette.bot:PM": true,
+ "JS:@colorhuntbot:PM/TW:@colorhunt.io": true
+}
